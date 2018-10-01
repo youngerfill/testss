@@ -1,2 +1,2 @@
-:doc:`/sitemap/index`	:timestamp:`2018-10-01 16:38:49`	
+:doc:`/sitemap/index`	:timestamp:`2018-10-01 16:39:12`	
 :doc:`/about/index`	:timestamp:`2018-10-01 16:28:18`	:doc:`/tags/bash/index` 
